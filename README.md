@@ -1,5 +1,4 @@
 # "Quiz-Assessment"
-It uses client Server Model and TCP-Concurrent Protocol to provide communication between client and server.
 # Overview:
 The Quiz Assessment System using a Client-Server Model with TCP Concurrent Connections is designed to efficiently handle multiple student assessments simultaneously in a networked environment. In this system, the server acts as a central controller, hosting quizzes and managing communication with multiple clients (students) over TCP (Transmission Control Protocol) to ensure reliable data transmission. Server can handle multiple client connections at the same time without interference, enabling each student to participate in the quiz independently and securely. This architecture ensures low latency, data integrity, and a scalable structure suitable for educational institutions conducting real-time online assessments.
 
